@@ -21,6 +21,6 @@ Screenshots with guideline:
 
 ![Alt text](https://cloud.githubusercontent.com/assets/3199539/5258793/0415559c-7a1c-11e4-9aa1-3795a4d9cfdb.png?raw=true "Optional Title")
 
-3. Now if you want to select more images from other album, you can select it as above.and then click right button on top right side of gallery screen. it will move you at preview screen.
+3. Now if you want to select more images from other album, you can select it as above.and then click right button on top right side of gallery screen. it will move you at preview screen:
 
 ![Alt text](https://cloud.githubusercontent.com/assets/3199539/5258796/0692e910-7a1c-11e4-92ce-c9a8aa2bf171.png?raw=true "Optional Title")
