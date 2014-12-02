@@ -1,4 +1,4 @@
-MyGalleryDemo
+MyGallery
 =============
 
 Custom gallery view with multiple selection
